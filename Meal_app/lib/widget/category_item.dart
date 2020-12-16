@@ -13,12 +13,8 @@ class CategoryItem extends StatelessWidget {
       arguments: {
       'id': id,
       'title': title,
-    }
-        // MaterialPageRoute(
-        //   builder: (_) {
-        //     return CategoryMealScreen(id,title);
-        //   },
-        // ),
+    },
+
         );
   }
 
@@ -36,7 +32,10 @@ class CategoryItem extends StatelessWidget {
         ),
         decoration: BoxDecoration(
           gradient: LinearGradient(
-
+            colors: [
+              color.withOpacity(0.7),
+              color,
+            ],
             begin: Alignment.topLeft,
             end: Alignment.bottomRight,
           ),
