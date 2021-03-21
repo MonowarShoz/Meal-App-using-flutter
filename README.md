@@ -7,4 +7,4 @@
 5.	Allows user to manage their favorite meal through various kinds of meal and to give the proper recipe and ingredients
 to cook that meal
 ![](pic/Screenshot_2021-03-21-11-56-13-750_com.example.Meal_app.jpg)
-![](Screenshot_2021-03-21-11-56-27-709_com.example.Meal_app.jpg)
+![](pic/Screenshot_2021-03-21-11-56-27-709_com.example.Meal_app.jpg)
